@@ -10,7 +10,8 @@ namespace Tyuiu.AsharabzyanovaAR.Sprint0.Task3.V0.Lib
     { 
 
         public static int Sum(int a, int b)
-        { return a + b;
+        { 
+            return a + b;
         }
     }
 }
